@@ -1,0 +1,6 @@
+@CorreioElegante_HostAddress = http://localhost:5167
+
+GET {{CorreioElegante_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
